@@ -25,7 +25,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1918-12-16,"Elizabeth, New Jersey",US Aerial Mail Service,De Havilland DH-4,97,1,1,0
 1919-05-25,"Cleveland, Ohio",US Aerial Mail Service,De Havilland DH-4,61,1,1,0
 1919-07-19,"Dix Run, Pennsylvania",US Aerial Mail Service,De Havilland DH-4,82,1,1,0
-1919-07-21,"Chicago, Illinois",Wingfoot Air Express Goodyear Tire,FD Type Dirigible,?,3,?,10
+1919-07-21,"Chicago, Illinois",Wingfoot Air Express Goodyear Tire,FD Type Dirigible,?,3,0,10
 1919-08-02,"Verona, Italy",Caproni Company,Caproni Ca.48,?,14,14,0
 1919-10-02,"Newcastle, England",Aircraft Transport and Travel,De Havilland DH-4,?,1,1,0
 1919-10-14,"Cantonsville, Maryland",US Aerial Mail Service,Curtiss R-4LM,32,1,1,0
@@ -102,7 +102,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1925-07-20,"Rosas, Spain",Lignes Aeriennes Latecoere,Breguet 14,F-AFBI,1,1,0
 1925-07-24,"Budapest, Hungary",CIDNA,Potez IX,?,1,1,0
 1925-09-03,"Caldwell, Ohio",Military - U.S. Navy,Dirigible ZR-1 Shenandoah (airship),ZR-1,14,43,0
-1925-09-07,"Toul, France",CIDNA,Spad 33,?,?,?,?
+1925-09-07,"Toul, France",CIDNA,Spad 33,?,0,0,0
 1925-10-01,"Mt. Nittany, Ohio",US Aerial Mail Service,De Havilland DH-4,385,1,1,0
 1925-11-14,"Nouadhibou, Mauritania",Lignes Aeriennes Latecoere,Breguet 14,F-AEGZ,1,1,0
 1925-11-14,"Off Boulogne-sur-Mer, France",Air Union,Farman F-60 Goliath,F-FHMY,2,2,0
@@ -234,12 +234,12 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1930-10-05,"Near Beauvais, France",Military - British Air Ministry,Royal Airship Works R-101,G-FAAW,48,54,0
 1930-10-06,"Dresden, Germany",Deutsche Lufthansa,Messerschmitt M-20B,D-1930,8,8,0
 1930-10-12,"La Rache, Morocco",Aeropostale,Latecoere 28,F-AJUU,4,4,0
-1930-10-13,"Perth, Australia",Wings Ltd,de Havilland DH.80 Puss Moth,VH-UPC,3,3,?
+1930-10-13,"Perth, Australia",Wings Ltd,de Havilland DH.80 Puss Moth,VH-UPC,3,3,0
 1930-10-28,"Prince Rupert, BC, Canada",Alaska-Washington Airways,Lockheed Vega,NC103W,3,3,0
 1930-10-30,"Brookston, Indiana",Embry Riddle Company,Pitcairn PA-6 Mailwing,?,1,1,0
 1930-10-30,"Near Neufchatel, France",Imperial Airways,Handley Page W-8,G-EBIX,3,6,0
 1930-11-07,"Off of Santos, Brazil",Syndicato Condor,Junkers G-24,P-BAHA,1,9,0
-1930-11-18,"Techachapi Mountains, California",Pacific Air Transport,Boeing 40,NC5340,3,3,?
+1930-11-18,"Techachapi Mountains, California",Pacific Air Transport,Boeing 40,NC5340,3,3,0
 1930-12-09,"Shanghai, China",China National Aviation Corporation,Loening C-W Air Yaht,?,4,6,0
 1931-01-08,"Melle, Belgium",Sabena,Fokker F-VII,OO-AIL,2,2,0
 1931-01-22,"Bluff Mountain, Washington",Varney Air Lines,Boeing 40,NC741K,1,1,0
@@ -322,9 +322,9 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1933-09-12,"Near Ljubljana, Yugoslavia",Aeroput,Farman F-306,YU-SAH,8,8,0
 1933-10-10,"Chesterton, Indiana",United Air Lines,Boeing 247,NC13304,10,10,0
 1933-10-31,"Etobon, France",Air France,Farman F-301,F-AJMI,2,5,0
-1933-11-09,"Portland, Oregon",United Air Lines,Boeing 247,NC13345,4,10,?
+1933-11-09,"Portland, Oregon",United Air Lines,Boeing 247,NC13345,4,10,0
 1933-11-10,"Moriarty, New Mexico",Trans Continental and Western Air,Northrop Delta,NC12292,0,1,0
-1933-11-20,"Near Tsinan, China",China National Aviation Corporation,Stinson,?,8,8,?
+1933-11-20,"Near Tsinan, China",China National Aviation Corporation,Stinson,?,8,8,0
 1933-11-21,"Near Kharkov, Ukraine, USSR",Kalinin,Kalinin K-7,?,14,20,0
 1933-11-24,"Wedron, Illinois",National Air Transport,Boeing 247,NC13324,2,2,0
 1933-12-11,"Hamburg, Germany",Deutsche Lufthansa,Focke-Wulf A-17,D-1403,6,10,0
@@ -347,7 +347,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1934-07-09,"San Bernardino, California",United Air Services,Lockheed Vega,NC32E,3,4,0
 1934-07-27,"Near Tuttlingen, Germany",Swissair,Curtiss AT-32C Condor,CH-170,12,12,0
 1934-08-05,"Bahia, Brazil",Air France,Latecoere 26,F-AILK,2,2,0
-1934-08-10,"Ningbo, China",China National Aviation Corporation,Sikorsky S-38B,?,?,?,?
+1934-08-10,"Ningbo, China",China National Aviation Corporation,Sikorsky S-38B,?,0,0,0
 1934-08-31,"Amazonia, Missouri",Rapid Air Transport,Stinson SM-6000B,NC11118,5,5,0
 1934-10-02,English Channel,Hillman's Airways,de havilland 89 Dragon Rapide,G-ACPM,7,7,0
 1934-10-03,"Near Winton, Australia",Qantas,de Havilland DH-50A,VH-UHE,3,3,0
@@ -384,7 +384,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1935-07-23,"Cardiff, United Kingdom",Jersey Airways,de Havilland DH-84 Dragon,G-ACMP,1,8,0
 1935-07-28,"El Retiro, Colombia",Fuerza Aerea Colombiana,Junkers W-34,406,5,5,0
 1935-08-07,"Cairo, Egypt",Ala Littoria,Savoia-Marchetti S-66,I-REDI,7,7,0
-1935-08-13,"Hangow, China",China National Aviation Corporation,Sikorsky S-38B,NV40V,?,?,?
+1935-08-13,"Hangow, China",China National Aviation Corporation,Sikorsky S-38B,NV40V,0,0,0
 1935-08-14,"Near Gilmer, Texas",Delta Air Lines,Stinson Model A,NC14599,4,4,0
 1935-08-15,"Walakpa, near Point Barrow, Alaska",Private,Lockheed Orion 9E Explorer float plane,NR12283,2,2,0
 1935-08-15,"Near Glendo, Wyoming",Aero Mayflower Transit Co,"Waco, model YLC",NC14140,3,3,0
@@ -451,7 +451,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1936-12-18,"Kellogg, Idaho",Northwest Orient Airlines,Lockheed 10 Electra,NC14935,2,2,0
 1936-12-19,"Near Milford, Pennsylvania",Eastern Air Lines,Douglas DC-2-112,NC13732,0,11,0
 1936-12-23,"Near Dallas, Texas",Braniff Airways,Lockheed 10 Electra,NC14905,6,6,0
-1936-12-26,"Nanking, China",China National Aviation Corporation,Douglas DC-2,NC14269,?,?,?
+1936-12-26,"Nanking, China",China National Aviation Corporation,Douglas DC-2,NC14269,0,0,0
 1936-12-27,"Newhall, California",United Air Lines,Boeing 247D,NC13355,12,12,0
 1937-01-11,"Near Playa V icente, Veracruz, Mexico",Mexicana,Lockheed 10E Electra,X-ABEO,9,9,0
 1937-01-12,"Near Newhall, California",Western Air Express,Boeing 247D,NC13315,5,13,0
@@ -465,7 +465,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1937-05-06,"Lakehurst, New Jersey",Deutsche Zeppelin Reederei,Zeppelin LZ-129,D-LZ-129,35,97,1
 1937-05-20,"Stuttgart, Germany",Deutsche Lufthansa,Heinkel He-70,D-UXUV,4,4,0
 1937-06-02,Desertores Island Región de Los Lagos,Fuerzs Aerea De Chile,Sirkorsky S-43 (flying boat),2,9,9,0
-1937-06-20,?,ENTA,Travel Air 6000,TI-3,6,6,?
+1937-06-20,?,ENTA,Travel Air 6000,TI-3,6,6,0
 1937-07-02,"Off Lae, New Guinea",Private - Purdue Reasearch Foundation,Lockheed 10E Electra,NR16020,2,2,0
 1937-07-28,"Hal, Belgium",KLM Royal Dutch Airlines,Douglas DC-2-115L,PH-ALF,15,15,0
 1937-08-02,"Wadi Halfa, Sudan",Ala Littoria,Savoia-Marchetti SM73,I-SUSA,9,9,0
@@ -481,7 +481,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1937-10-27,Off Western Africa,Air France,Dewoitine D-333,F-ALQA,7,7,0
 1937-11-11,"Warsaw, Poland",Lot Polish Airlines,Lockheed 10 Electra,SP-AYD,4,11,0
 1937-11-12,"Mannheim, Germany",Deutsche Lufthansa,Heinkel He-111,D-AXAV,10,12,0
-1937-11-12,"Warsaw, Poland",LOT,Lockhed 10 Electra,SP-AYD,4,11,?
+1937-11-12,"Warsaw, Poland",LOT,Lockhed 10 Electra,SP-AYD,4,11,0
 1937-11-16,"Ostende, Belgium",Sabena,Junkers JU-52/3m,OO-AUB,11,11,0
 1937-11-26,"Croydon, United Kingdom",Deutsche Lufthansa,Junkers JU-52,D-AGAV,3,3,0
 1937-12-04,"Munich, Germany",Ala Littoria,Junkers JU-52,I-BAUS,4,17,0
@@ -515,7 +515,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1938-06-19,"Mount Mercedario, Chile",Pan American Grace Airways,Douglas DC-2,NC14272,4,4,0
 1938-07-08,"Billings, Montana",Northwest Orient Airlines,Lockheed 14 Super Electra,NC17383,1,10,0
 1938-07-14,"Off Sardinia, Italy",Ala Littoria,Savoia Marchetti S-66,I-VOLO,20,20,0
-1938-07-19,Andes,Panagra,Douglas DC-2,NC14272,4,4,?
+1938-07-19,Andes,Panagra,Douglas DC-2,NC14272,4,4,0
 1938-07-22,"Stulpica, Romania",LOT Polish Airlines,Lockheed 14H Super Electra,SP-BNG,14,14,0
 1938-07-27,"Kisumu, Kenya",Imperial Airways,Armstrong-Withworth Atlanta,G-ABTG,4,4,0
 1938-07-29,Pacific Ocean between Manila and Guam,Pan American World Airways,Martin M-130 (flying boat),NC14714,15,15,0
@@ -571,7 +571,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1939-08-30,"Hannover, Germany",Deutsche Lufthansa,Junkers JU-52/3m,D-AFOP,7,7,0
 1939-09-26,North Sea,KLM Royal Dutch Airlines,Douglas DC-3,PH-ASM,1,20,0
 1939-10-10,"Calarmar, Colombia",Scarta,Junkers W-34,C-53,5,5,0
-1939-11-20,"Gosport, England",British Airways,Airspeed Oxford,G-AFFM,2,2,?
+1939-11-20,"Gosport, England",British Airways,Airspeed Oxford,G-AFFM,2,2,0
 1939-12-18,South of Gibraltar,Iberia Airlines,Junkers JU-52,M-CABA,9,9,0
 1939-12-21,Off Malta-Luqa,British Airways,Lockheed 14 Super Electra,G-AFYU,5,8,0
 1939-12-24,"Mogador, Morocco",Linee Aeree Italiane,Savoia-Marchetti SM83,I-ARPA,7,7,0
@@ -632,7 +632,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1942-01-26,"Kupang, Timor",KNILM,Grumman G-21 Goose,PK-AFS,5,5,0
 1942-01-30,"Near Kupang, Timor",Qantas,Short S-23 (flying boat),G-AEUH,13,18,0
 1942-02-15,"English Channel, near Plymouth, England",British Overseas Airways,Consolidated Liberator,G-AGDR,9,9,0
-1942-02-19,"Zhengzhou-Xinzheng, China",China National Aviation Corporation,Douglas DC-2,45,1,1,?
+1942-02-19,"Zhengzhou-Xinzheng, China",China National Aviation Corporation,Douglas DC-2,45,1,1,0
 1942-02-20,"Off Belmont, Brisbane, Australia",Qantas,deHavilland DH-86,VH-USE,9,9,0
 1942-02-28,Indian Ocean,British Overseas Airways,Short S-23 (flying boat),G-AETZ,20,20,0
 1942-03-03,"Wyndham, Australia",KNILM,Douglas DC-3,PK-AFV,8,12,0
@@ -652,7 +652,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1942-09-24,Off West Africa,British Overseas Airways,Short S-30 (flying boat),G-AFCZ,19,19,0
 1942-09-27,"Ameur el Ain, Algeria",Air France,Dewoitine D-342,F-ARIZ,25,25,0
 1942-09-28,"Near Sao Paulo, Brazil",Panair do Brasil SA,Lockheed 18 Loadstar,PP-PBG,15,15,0
-1942-10-01,"Kunming, China",China National Aviation Corporation,Douglas C-47,69,?,?,?
+1942-10-01,"Kunming, China",China National Aviation Corporation,Douglas C-47,69,0,0,0
 1942-10-01,"Near Coamo, Puerto Rico",Military - U.S. Army Air Forces,Douglas C-39-DO (DC-2),38-524,22,22,0
 1942-10-03,"Botwood, Newfoundland",American Export Airlines,Sirkorsky 44A (flying boat),NC41880,11,37,0
 1942-10-22,"Yanaul, Russia",Aeroflot,GVF PS-84,CCCP-L3903,10,12,0
@@ -715,7 +715,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1944-02-10,"Near Quelimane, Mozambique",DETA,Lockheed 14-H2 Super Electra,CR-AAV,14,14,0
 1944-02-20,China,China National Aviation Corporation,Douglas C-47,75,2,2,0
 1944-02-21,"Eubeoa, Greece",Deutsche Lufthansa,Junkers JU-52/3m,D-ABAS,16,16,0
-1944-03-22,New Guinea,Military - U.S. Army,Consolidated B-24 Liberator,?,21,21,?
+1944-03-22,New Guinea,Military - U.S. Army,Consolidated B-24 Liberator,?,21,21,0
 1944-04-06,"Near Nome, Alaska",Pan American World Airways,Pilgrim 100B,NC742N,6,6,0
 1944-04-17,"Belgrad, Yugoslavia",Deutsche Lufthansa,Junkers JU-52/3m,D-AOCA,5,7,0
 1944-04-21,"Frederikstad, Norway",Deutsche Lufthansa,Douglas DC-3,D-AAIG,9,20,0
@@ -755,7 +755,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1944-10-18,"Birkenhead, England",Military - U.S. Army Air Forces,Consolidated B24H,42-50347,24,24,0
 1944-11-04,"Hanford, California",Trans Continental and Western Air,Douglas DC-3,NC28310,24,24,0
 1944-11-06,"Jacksonville, Florida",Military - US Navy,Douglas C-47 Skytrain (DC-3),39063,17,17,0
-1944-11-09,"Seljord, Norway",Military - U.S. Army Air Corps,?,42-52196,?,?,?
+1944-11-09,"Seljord, Norway",Military - U.S. Army Air Corps,?,42-52196,0,0,0
 1944-11-10,"Near Kumming, Yunan, China",CATC,Lockheed Hudson,?,20,20,0
 1944-11-19,"Lewes, England",Military - U.S. Army Air Forces,Douglas C-47A-DL,43-15046,25,30,0
 1944-11-29,"Nairobi, Kenya",BOAC,Lockheed 18 LodeStar,G-AGBW,11,11,0
@@ -830,7 +830,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1945-11-11,"Near Picinisco, Italy",Military - U.S. Army Air Forces,Boeing B-17G,43-9197,20,20,0
 1945-11-11,Himalayas,Military - U.S. Army,Douglas C-54,?,44,44,0
 1945-11-11,"Near Castel, Libya",Military -Royal Air Force,Short Stirling,PJ950,29,29,0
-1945-11-13,"Near Tacloban, Philippines",Australian National Airways,Douglas C-48,VH-CDC,16,17,?
+1945-11-13,"Near Tacloban, Philippines",Australian National Airways,Douglas C-48,VH-CDC,16,17,0
 1945-11-15,Near Jacquinot Bay New Guinea,Military - Royal Australian Air Force,Douglas C-47 Dakota-DK,A6554,28,28,0
 1945-11-22,"White's Farm, England",Military -Royal Air Force,Consolidated LB-30A Liberator,KH126,27,27,0
 1945-12-03,"Near Rochefort , France",Military -Royal Air Force,Consolidated LB-30A Liberator,KH125,28,28,0
@@ -855,7 +855,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1946-03-05,"Near Prague, Czechoslovakia",Ceskoslovenske Aerolinie,Junkers JU-52/3m,OK-ZDN,12,15,0
 1946-03-10,"Off Hobart, Tasmania",Australian National Airways,Douglas DC-3 (C-47DL),VH-AET,25,25,0
 1946-03-17,"Near Nanking, China",Military - Chinese Air Force,?,?,20,20,0
-1946-03-18,"Between Chungking and Shanghai, China",China National Aviation Corporation,?,139,?,?,?
+1946-03-18,"Between Chungking and Shanghai, China",China National Aviation Corporation,?,139,0,0,0
 1946-03-19,"Hobart Mills, California",Military - U.S. Army Air Forces,Douglas C-47B,45-1085,26,26,0
 1946-03-23,"Off Ceylon, Cocos Islands, Indian Ocean",British Overseas Airways /Qantas,Avro 691 Lancastrian 1,G-AGLX,10,10,0
 1946-04-01,"near Craigavad, Northern Ireland",Railway Air Services Ltd.,de Hvilland 89A Dragon Rapide,G-AERZ,6,6,0
@@ -908,7 +908,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1946-10-17,"Near Chitral, India",Military - Royal Air Force,Douglas C-47B,KN236,11,11,0
 1946-10-23,"Gebel Kalamoun, Egypt",Socotra,Junkers JU-52/3m,F-BCHD,1,24,0
 1946-11-01,"St Leger-la-Montagne, France",CTA Languedoc Roussillon,AAC-1 Toucan,F-BCAD,23,27,0
-1946-11-05,"Near Moscow, Russia",Aeroflot,Douglas C-47,SSSR-L946,13,26,?
+1946-11-05,"Near Moscow, Russia",Aeroflot,Douglas C-47,SSSR-L946,13,26,0
 1946-11-11,"Cleveland, Ohio",United Air Lines,Douglas DC-3 (C-53D-DO),N19947,2,20,0
 1946-11-13,"Lebec, California",Western Airlines,Douglas C-53D-DO (DC-3),NC18645,11,11,0
 1946-11-13,"Near Cofre de Perote, Mexico",Empressa Commun. Aéreas Veracruz,Douglas DC-3,XA-FOZ,15,15,0
@@ -1078,7 +1078,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1948-11-04,"Cape Spencer, Alaska",Pacific Alaska Air Freight,Douglas DC-3,N66637,17,17,0
 1948-11-08,"Mt. Macedon, Australia",Australian National Airways,Douglas DC-3,VH-UZK,3,23,0
 1948-11-11,"Liverpool, England",Mannin Airways,de Havilland DH-89A Dragon Rapide,G-AKOF,7,8,0
-1948-11-22,"Near Ryzhovo, Russia",Aeroflot,Lisunov Li-2,CCCP L-4463,23,26,?
+1948-11-22,"Near Ryzhovo, Russia",Aeroflot,Lisunov Li-2,CCCP L-4463,23,26,0
 1948-11-26,"Vehari, Pakistan",Pakistan Airways,Douglas DC-3,AP-ACE,21,21,0
 1948-12-05,"Kiangwan, China",Central Air Transport,Curtiss C-46,XT-538,9,40,0
 1948-12-06,"Milan, Italy",Avio Linee Italiane Avio,Douglas C-47,I-ETNA,7,7,0
@@ -1183,7 +1183,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1950-06-09,"Near Fonseca, Colombia",New Tribes Mission,Douglas DC-3-178,N16030,15,15,0
 1950-06-13,Off Bahrain,Air France,Douglas DC-4-1009,F-BBDE,46,52,0
 1950-06-14,Bahrain,Air France,Douglas DC-4,F-BBDM,40,53,0
-1950-06-15,"Bahrain, Bahrain",Air France,Douglas DC-4,F-BBDM,40,53,?
+1950-06-15,"Bahrain, Bahrain",Air France,Douglas DC-4,F-BBDM,40,53,0
 1950-06-23,"Lake Michigan, 18 NNW of Benton Harbor, Michigan",Northwest Orient Airlines,Douglas DC-4,N95425,58,58,0
 1950-06-26,"York, Australia",Ansett ANA,Douglas DC-4-1009,VH-ANA,29,29,0
 1950-07-07,"Busan, South Korea",Military - U.S. Air Force,Douglas C-54G,45-0518,23,23,0
@@ -1232,7 +1232,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1951-01-14,"Philadelphia, Pennsylvania",National Airlines,Douglas DC-4-1009,N74685,7,28,0
 1951-01-16,"Near Reardan, Washington",Northwest Orient Airlines,Martin 202,N93054,10,10,0
 1951-01-17,"Near Civitavecchia, Italy",Alitalia,Savoia Marchetti SM-95,I-DALO,14,17,0
-1951-01-20,"Huilyo, Peru",Military - TAM,Douglas DC-3,?,16,?,?
+1951-01-20,"Huilyo, Peru",Military - TAM,Douglas DC-3,?,16,0,0
 1951-01-28,"Near An tung, Taiwan",Military -Royal Air Force,Short Sunderland 9 (flying boat),PP107,14,14,0
 1951-01-31,"Off Hafnarfjorour, Iceland",Icelandair,Douglas DC-3,TF-ISG,20,20,0
 1951-02-01,"Off Terceira, Portugal",Military - Portuguese Air Force,Douglas C-54,282,14,14,0
@@ -1315,7 +1315,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1952-02-28,"Uberlandia, Brazil",Panair do Brasil,Douglas DC-3A,PP-PCN,8,8,0
 1952-03-03,"Nice, France",Air France,SNCASE Languedoc,F-BCUM,38,38,0
 1952-03-10,"Cebu, Philippines",Philippine Air Lines,Douglas C-47A-35-DL,PI-C5,3,3,0
-1952-03-12,"Near Sequin, Texas",Military - U.S. Air Force /,Boeing B-29 / B-29,?,15,15,?
+1952-03-12,"Near Sequin, Texas",Military - U.S. Air Force /,Boeing B-29 / B-29,?,15,15,0
 1952-03-22,"Near Gaspe, Quebec, Canada",Maritime Central Airways,Douglas C-47-DL,CF-BXZ,4,4,0
 1952-03-22,"Frankfurt, Germany",KLM Royal Dutch Airlines,Douglas DC-6,PH-TPJ,45,47,0
 1952-03-24,"Near Gao, French West Africa",Société Aérienne de Tr. Tropicaux,Lockheed 18 Lodestar,F-ARTE,17,21,0
@@ -1335,7 +1335,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1952-05-24,"Near Manaus, Brazil",Loide Aéreo Nacional,Curtiss C-46A,PP-LDE,6,6,0
 1952-05-26,"Near Atar, Mauritania",British Overseas Airways,Handley Page HP-81 Hermes IV,G-ALDN,1,18,0
 1952-06-13,Baltic Sea,Swedish Air Force,Douglas DC-3,79001,8,8,0
-1952-06-14,"Near Brighton, East Sussex, England",Morton Air Services,Airspeed AS-65 Consul,G-AHFT,6,8,?
+1952-06-14,"Near Brighton, East Sussex, England",Morton Air Services,Airspeed AS-65 Consul,G-AHFT,6,8,0
 1952-06-24,"Lakenheath AFB, England",Military - U.S. Air Force,Boeing B-50 Superfortress,?,11,11,0
 1952-06-25,"Off Northumberland, North Sea",Military - Royal Air Force,Avro Shackleton MR-1,VP261,11,13,0
 1952-07-18,"Whiting Field, near Milton, Florida",Military - Navy,Fairchild packet (C119 flying boxcar),?,41,46,0
@@ -1363,7 +1363,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1952-12-06,"Off Bermuda-Kindley Field, Bermuda",Cubana de Aviacion,Douglas DC-4,CU-T397,37,41,0
 1952-12-20,"Moses Lake, Washington",Military - U.S. Air Force,Douglas C-124A Globemaster,50-100,87,115,0
 1952-12-21,"Off Miami, Florida",Rutas Aéreas Nacionales SA,Curtiss C-46D,YV-C-ARC,3,3,0
-1952-12-22,"Damascus, Syria",Syrian Air,Douglas DC-3,?,9,?,?
+1952-12-22,"Damascus, Syria",Syrian Air,Douglas DC-3,?,9,0,0
 1952-12-25,"Off Caracas, Venezuela",Avensa,Douglas DC-3,YV-C-AVX,3,5,0
 1952-12-25,"Tehran, Iran",Iran Air,Douglas DC-3,EP-ACJ,27,29,0
 1952-12-30,"Chinmen Island, Taiwan",Philippine Air Lines,Douglas DC-3,PI-C38,2,10,0
@@ -1387,7 +1387,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1953-03-27,"Itapebi, Brazil",Transportes Aéreos Salvador,de Havilland DH-114 Heron 1B,PP-SLG,14,14,0
 1953-03-29,"Mtara, Tanganyika",Central African Airways,Vickers 616 Viking 1B,VP-YEY,13,13,0
 1953-04-10,"Miandivazo, Madagascar",Air France,Junkers JU-5/-3m,F-BALE,4,15,0
-1953-04-10,"Near Anchieta Island, Brazil",REAL,Doublas Dc-3,?,26,?,?
+1953-04-10,"Near Anchieta Island, Brazil",REAL,Doublas Dc-3,?,26,0,0
 1953-04-10,"Off Kingston, Jamaica",Caribbean International Airways,Lockheed 18-56 LodeStar,VP-JBC,13,13,0
 1953-04-14,"Near Guwahati, India",Airways,Douglas C-47A,VT-AUJ,3,3,0
 1953-04-14,"Selleck, Washington",Miami Airlines,Douglas DC-3 (C-47-DL),N65743,7,25,0
@@ -1398,7 +1398,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1953-05-09,"New Delhi, India",Air India,Douglas DC-3,VT-AUD,18,18,0
 1953-05-11,"Prince Rupert, BC, Canada",Canadian Pacific Air Lines,Consolidated PBY-5A Catalina,CF-CRV,2,19,0
 1953-05-17,"Near Marshall, Texas",Delta Air Lines,Douglas DC-3,N28345,19,20,0
-1953-05-24,"St. Louis, Missouri",Meteor Air,Douglas DC-3,N53596,6,7,?
+1953-05-24,"St. Louis, Missouri",Meteor Air,Douglas DC-3,N53596,6,7,0
 1953-05-25,"Amsterdam, Netherlands",KLM Royal Dutch Airlines,Convair CV-240-4,PH-TEI,0,34,2
 1953-05-27,"Goose Wade, Russia",Aeroflot,Li-2 / Li-2T,CCCP-L4534,20,20,0
 1953-06-14,"Near Zugdidi, Georgia",Aeroflot,Ilyushin IL-2,CCCP-L1375,18,18,0
@@ -1425,7 +1425,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1953-10-17,"Lai Chau, Vietnam",Compagnie Sila,Douglas C-47B,F-VNAE,2,7,0
 1953-10-19,"New York City, York",Eastern Air Lines,Lockheed 749A Constellation,N119A,2,27,0
 1953-10-19,"Near Monterrey, Mexico",Aerovias Contreras,Douglas C-46A-CU ( DC-3),XA-GOT,21,21,0
-1953-10-27,"Near Magadan, Russia",Aeroflot,Ilyushin IL-12,L1765,22,32,?
+1953-10-27,"Near Magadan, Russia",Aeroflot,Ilyushin IL-12,L1765,22,32,0
 1953-10-29,"Near Half Moon Bay, California",British Commonwealth Pacific Airlines,Douglas DC-6,VH-BPE,19,19,0
 1953-10-31,"Kharkov. Ukraine, Russia",Aeroflot,Li-2,L4732,15,16,0
 1953-11-03,"Tarabuco, Bolivia",Lloyd Aereo Boliviano,Douglas DC-3,CP-600,28,28,0
@@ -1433,7 +1433,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1953-12-04,"Near Guaderrama, Spain",Aviaco,Bristol 170 Freighter 21,EC-AEG,23,33,0
 1953-12-12,"Nagpur, India",Indian Airlines,Douglas DC-3,VT-CHF,13,14,0
 1953-12-15,"Tecpan Mt., Guatemala",Aviateca,Curtiss C-46D,TG-AQA,2,2,0
-1953-12-15,"Near Cairo, Egypt",Misair,VC-Viking,SU-AFK,6,6,?
+1953-12-15,"Near Cairo, Egypt",Misair,VC-Viking,SU-AFK,6,6,0
 1953-12-17,"Guam, Mariana Islands",Military - U.S. Air Force,Boeing B-29,44-87741,11,16,8
 1953-12-19,"Zurich, Switzerland",Sabena,Convair CV-240,OO-AWO,1,44,0
 1953-12-21,"Dah-el-Kadeeb, Syria",Syrian Airways,Douglas DC-3,YK-AAF,9,15,0
@@ -1452,7 +1452,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1954-02-25,"New Delhi, India",Indian Airlines,Douglas DC-3,VT-ATU,3,3,0
 1954-02-26,"Wright, Wyoming",Western Airlines,Convair CV-240,N8407H,9,9,0
 1954-03-04,"Near St. Etienne de Tinee, France",Military - U.S. Air Force,Douglas C-47A-DL,42-24096A,20,20,0
-1954-03-13,"Dien Bien Phu, South Vietnam",Aigle Azur,C-46,?,?,?,?
+1954-03-13,"Dien Bien Phu, South Vietnam",Aigle Azur,C-46,?,0,0,0
 1954-03-13,"Kallang Airport, Singapore",British Overseas Airways,Lockheed 749A-79-33 Constellation,G-ALAM,33,40,0
 1954-03-14,"Off Mackay, Australia",Queensland Airlines,Douglas C-47A,VH-BBV,2,2,0
 1954-03-19,"Near Lothian, Maryland",Military - U.S. Air Force,Fairchild C-110F,51-7993,18,18,0
@@ -1509,9 +1509,9 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1955-02-13,"Abruzzio Mountains, Italy",Sabena,Douglas DC-6,OO-SDB,29,29,0
 1955-02-19,"Albuquerque, New Mexico",Trans World Airlines,Martin 404,N40416,16,16,0
 1955-02-23,"Salisbury, Zimbabwe",Central African Airways,Douglas DC-3,VP-YKO,1,26,0
-1955-02-26,"Formosa, Argentina",de Havilland Dove,de Havilland DH.104 Dove,LQ-XWW,6,7,?
+1955-02-26,"Formosa, Argentina",de Havilland Dove,de Havilland DH.104 Dove,LQ-XWW,6,7,0
 1955-03-06,"Vitoria da Conquista, Brazil",REAL,Douglas DC-3,PP-YPZ,5,21,0
-1955-03-07,"Near Cuidad de Valles, Mexic",Private,Lockheed 18 LodeStar,XB-ZEH,6,6,?
+1955-03-07,"Near Cuidad de Valles, Mexic",Private,Lockheed 18 LodeStar,XB-ZEH,6,6,0
 1955-03-08,"Mascota, Mexico",Mexicana,Douglas DC-3,XA-DIK,26,26,0
 1955-03-09,"Trujillo, Colombia",AVIANCA,Douglas C-47A,HK-328,8,8,0
 1955-03-20,"Springfield, Missouri",American Airlines,Convair CV-240-0,N94234,13,35,0
@@ -1578,7 +1578,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1956-05-15,"Kathmandu, Nepal",Indian Airlines,Douglas DC-3,VT-DBA,14,31,1
 1956-05-15,"Orleans, Ontario, Canada",Military - Royal Canadian Air Force,CF-100 Mark 4B,18367,2,2,13
 1956-05-24,"Guatemala City, Guatemala",Aviateca,Douglas C-47-DL (DC-3),TG-AHA,30,31,0
-1956-06-13,Over North Carolina,Piedmont,Douglas DC-3,?,1,?,0
+1956-06-13,Over North Carolina,Piedmont,Douglas DC-3,?,1,0,0
 1956-06-20,"Asbury Park, New Jersey",Linea Aeropostal Venezolana,Lockheed 1049E-55 Super Constellation,YV-C-AMS,74,74,0
 1956-06-24,"Kano, Nigeria",British Overseas Airways,Canadair C-4 Argonaut,G-ALHE,32,45,0
 1956-06-30,"Grand Canyon, Arizona",United Air Lines / Trans World Airlines,Douglas DC-7 / Lockheed S Constellation,N6902C/N6324C,128,128,0
@@ -1628,7 +1628,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1957-04-10,"Anchieta Island, Brazil",REAL,Douglas DC-3,PP-ANX,26,30,0
 1957-04-15,"Merida, Mexico",Transportes Aéreos Mexicanos,Consolidated B-24J,XA-KUN,3,3,1
 1957-04-17,"Near El Quweira, Jordan",Military -Royal Air Force,Vickers Valetta C-Mk.1,VW832,24,24,0
-1957-04-20,"Jirkouk, Iraq",Air France,Lockheed Super Constellation,F-BGNE,1,?,0
+1957-04-20,"Jirkouk, Iraq",Air France,Lockheed Super Constellation,F-BGNE,1,0,0
 1957-05-01,"Blackbushe, Hants, England",Eagle Aviation,Vickers Viking 1B,G-AJBO,34,35,0
 1957-05-05,"Santoshpur, India",Indian Airlines,Douglas C-47A,VT-AUV,1,3,0
 1957-05-09,"Barajas, Madrid, Spain",Aviaco,Bristol 170 Freighter,EC-ADI,37,37,0
@@ -1639,9 +1639,9 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1957-06-18,"Bodensee, Switzerland",Swissair,Douglas C-47B,HB-IRK,9,9,0
 1957-06-22,"Near Clarksburg, Maryland",Capital Airlines,Douglas C-47A,N88835,3,3,0
 1957-06-23,"Port Hardy, BC, Canada",Pacific Western,Douglas DC-3,CF-EPI,14,18,0
-1957-06-24,"Horn Island, Queensland, Australia",Adastra Airways,L-Hudson,?,6,?,?
+1957-06-24,"Horn Island, Queensland, Australia",Adastra Airways,L-Hudson,?,6,0,0
 1957-07-01,"Bay of Bengal, Pakistan",Pakistan International Airlines,Douglas DC-3,AP-AJS,24,24,0
-1957-07-03,"Near Fort Rupert, Quebec, Canada",Kenting Air,Lockheed L-414 Hudson,CF-CRL,4,4,?
+1957-07-03,"Near Fort Rupert, Quebec, Canada",Kenting Air,Lockheed L-414 Hudson,CF-CRL,4,4,0
 1957-07-16,"Near Biak, Indonesia",KLM Royal Dutch Airlines,Lockheed 1049C Super Constellation,PH-LKT,58,68,0
 1957-07-16,"Near Hsinchu, Taiwan (Formosa)",Military - United States Air Force,Douglas C-47A-90 (DC-3),43-15867,16,16,0
 1957-07-25,"Daggett, California",Western Airlines,Convair CV-240,N8405H,1,16,0
@@ -1778,7 +1778,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1959-06-23,"Cerros Baco, Peru",AVIANCA,Douglas DC-4,HK-135,14,14,0
 1959-06-26,"Near Varese, Lombardia, 20 miles NW of Milan, Italy",Trans World Airlines,Lockheed 1649A Starliner,N7313C,68,68,0
 1959-06-30,"Ishikawa City, Ryukyu Island, Okinawa",Military - U.S. Air Force,North American F-100D-25NA,55-3633A,0,1,17
-1959-07-15,"Kuwait City, Kuwait",PAS,Avro 685 York,EP-ADE,32,32,?
+1959-07-15,"Kuwait City, Kuwait",PAS,Avro 685 York,EP-ADE,32,32,0
 1959-08-03,"Sagone, India",Kalinga Airlines,Douglas DC-3,VT-DGP,6,6,0
 1959-08-14,"Karachi, Pakistan",Pakistan International Airlines,Vickers 815 Viscount,AP-AJE,2,3,0
 1959-08-15,"Calverton, New York",American Airlines,Boeing 707-123,N7514A,5,5,0
@@ -1913,7 +1913,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1961-08-29,"Sondreströmfjord, Greenland",Eastern Provincial Airways,de Havilland Canada DHC-3 Otter,CF-MEX,1,6,0
 1961-09-01,"Near Hinsdale, Illinois",Trans World Airlines,Lockheed 049 Constellation,N86511,78,78,0
 1961-09-05,"Near Sendafar, Ethiopia",Ethiopian Airlines,Douglas DC-3,ET-T-16,5,19,0
-1961-09-06,"Concordia, SC, Brazil",REAL Transportes Aereos,Douglas C-47A (DC-3),PP-AVL,4,4,?
+1961-09-06,"Concordia, SC, Brazil",REAL Transportes Aereos,Douglas C-47A (DC-3),PP-AVL,4,4,0
 1961-09-06,"Cerro del Aernal, Costa Rica",Lineas Aéreas Costarricenses,Douglas DC-3,TI-1006C,2,2,0
 1961-09-10,"Shannon, Ireland",President Airlines,Douglas DC-6B,N90773,83,83,0
 1961-09-12,"Near Rabat, Morocco",Air France,Sud-Aviation Caravelle III,F-BJTB,77,77,0
@@ -2065,7 +2065,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1963-08-21,"Near Leningrad , Russia",Aeroflot,Tupolev Tu-124,CCCP-45021,0,52,0
 1963-08-24,"Near Kutaisa, Russia",Aeroflot,Ilyushin Il-14P,CCCP-61617,32,32,0
 1963-08-28,"Off Miami, Florida",Military - U.S. Air Force / Military,Boeing KC-135A / KC-135A,61-0319/61-0322,11,11,0
-1963-09-02,Northeast Laos,?,Curtiss C-46 Commando,?,15,16,?
+1963-09-02,Northeast Laos,?,Curtiss C-46 Commando,?,15,16,0
 1963-09-04,"Durrenasch, Aargau, Switzerland",Swissair,Sud-Aviation Caravelle III,HG-ICV,80,80,0
 1963-09-11,"Near Patti, India",Indian Airlines,Vickers Viscount 768D,VT-DIO,18,18,0
 1963-09-12,"Perpignan, France",Air Nautic,Vickers Viking 1B,F-BJER,40,40,0
@@ -2103,7 +2103,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1964-04-12,"Hargeisa, Somalia",Aden Airways,Douglas DC-3,VR-AAM,15,15,0
 1964-04-17,"Dhahran, Saudi Arabia",Middle East Airlines,Sud Aviation Caravelle 3,OD-AEM,49,49,0
 1964-04-17,"Elim, Alaska",Wein Alaska Airlines Inc.,Cessna 185,N9984X,2,2,0
-1964-04-18,"Wilmington, Ohio",Military - US Air Force,Fairchild C-119G / C-119G,?,17,19,?
+1964-04-18,"Wilmington, Ohio",Military - US Air Force,Fairchild C-119G / C-119G,?,17,19,0
 1964-05-07,"San Ramon, California",Pacific Air Lines,Fairchild F-27A,N2770R,44,44,0
 1964-05-08,"Near Lima, Peru",Fuerza Aérea Argentina,Douglas C-54,T-47,46,49,0
 1964-05-11,"Off Rota, Spain",Military - US Air Navy,Lockheed P-2E Neptune,131481,10,10,0
@@ -2438,7 +2438,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1969-08-31,"Newton, Iowa",Private Charter,Cessna 172H,N3149X,3,3,0
 1969-09-01,"Cross Bay, Russia",Aeroflot,Ilyushin IL-14P,CCCP-61731,22,27,0
 1969-09-02,"Near Pakse, Laos",Military - Royal Lao Air Force,Douglas C-47,248,35,35,0
-1969-09-06,"Quito, Ecuador",TAME Ecuador,Douglas DC-3,?,1,16,?
+1969-09-06,"Quito, Ecuador",TAME Ecuador,Douglas DC-3,?,1,16,0
 1969-09-08,"Near Medina, Colombia",SATENA,Douglas DC-3,FAC-685,32,32,0
 1969-09-09,"Near Fairland, Indiana",Allegheny Airlines / Forth Corporation,MD Douglas DC-9-31/Piper Cherokee PA-28,N988VJ/N7374J,83,83,0
 1969-09-12,"Near Antipolo, Philippines",Philippine Air Lines,BAC One-Eleven 402AP,PI-C1131,45,47,0
@@ -2997,7 +2997,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1978-09-25,"San Diego, California",Pacific Southwest Airlines / Private,Boeing B-727-214 / Cessna 172,N533PS/N7711G,137,137,7
 1978-10-03,"Near Kuopio, Finland",Military - Finish Air Force,Douglas C-47A-1-DK,DO-10,15,15,0
 1978-10-03,"Near Mandalay, Myanmar",Burma Airways,Fokker F-27 Friendship 600,XY-ADY,2,44,0
-1978-10-06,"Santiago de Chile, Chile",Military - US Navy,Douglas R6D-1 (DC-6),131618,18,18,?
+1978-10-06,"Santiago de Chile, Chile",Military - US Navy,Douglas R6D-1 (DC-6),131618,18,18,0
 1978-10-07,"Sverdlovsk, Russia",Aeroflot,Yakovlev YAK-40,CCCP-87437,38,38,0
 1978-10-08,"Kenai, Alaska",Era Helicopter - Air Taxi,Bell 205-1,N2215W,2,7,0
 1978-10-22,"Off Bellona, Solomon Islands",Solomon Islands Airlines,Britten Norman BN-2A Trislander,H4-AAC,11,11,0
@@ -3562,7 +3562,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1989-04-26,"Baranquilla, Colombia",Aerosucre Colombia,Aérospatiale SE-210 Caravelle,HK-3325X,5,5,0
 1989-05-05,"Near Cancun, Mexico",Aero Cozumel,Britten Norman BN-2A Trislander II,XA-JPE,6,19,0
 1989-05-08,"Oskarshamn, Sweden",Holmstoem Air,Beechcraft 99,SE-IZO,16,16,0
-1989-05-09,"Near Tainjin, China",Aero Asahi,Bell 412,JA9596,10,?,0
+1989-05-09,"Near Tainjin, China",Aero Asahi,Bell 412,JA9596,10,0,0
 1989-06-07,"Near Paramaribo, Surinam",Surinam Airways,McDonnell Douglas DC-8 Super 62,N1809E,176,187,0
 1989-06-11,"Vereda el Salitre, Colombia",Aerotaca,de Havilland Canada DHC-6 Twin Otter 300,HK-2486,6,22,0
 1989-06-17,"Berlin, Germany",Interflug,Ilyushin IL-62MK,DDR-SEW,20,113,1
@@ -3762,7 +3762,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 1992-02-06,"Evansville, Indiana",Military - US Air Force,Lockheed C-130B Hercules,58-0732,5,5,12
 1992-02-09,"Near Kafountine, Senegal",Gambcrest,Convair CV- 640,N862FW,30,56,0
 1992-02-15,"Toledo, Ohio",ATI,McDonnell Douglas DC-8-63F,N794AL,3,4,0
-1992-02-20,En route from Argentina to California,Aerolineas Argentinas,Boeing B-747,?,1,?,0
+1992-02-20,En route from Argentina to California,Aerolineas Argentinas,Boeing B-747,?,1,0,0
 1992-03-02,"Beni, Bolivia",Frigorifico Santa Rita,Curtiss C-46T,CP-754,5,5,0
 1992-03-12,"Etsouali, Congo",Lina Congo,de Havilland Canada DHC-6 Twin Otter 300,TN-ACX,3,8,0
 1992-03-22,"La Guardia Airport, New York, York",USAir,Fokker F-28 Fellowship 4000,N485US,27,51,0
@@ -4739,7 +4739,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 2009-04-29,"Massamba, Democratic Republic of Congo",Bako Air,Boeing B-737-200,TL-ADM,7,7,0
 2009-05-03,"Near El Alto de Rubio, Venezuela",Military - Venezuelan Army,Mi-35,EV08114,18,18,0
 2009-05-20,"Near Madiun, Indonesia",Military - Indonesian Air Force,Lockheed C-130 Hercules,A-1325,112,112,2
-2009-05-26,"Near Isiro, Democratic Republic Congo",Service Air,Antonov An-26,9Q-CSA,4,4,?
+2009-05-26,"Near Isiro, Democratic Republic Congo",Service Air,Antonov An-26,9Q-CSA,4,4,0
 2009-06-01,"Atlantic Ocean, 570 miles northeast of Natal, Brazil",Air France,Airbus A330-203,F-GZCP,228,228,0
 2009-06-07,"Near Port Hope Simpson, Newfoundland, Canada",Strait Air,Britten-Norman BN-2A-27 Islander,C-FJJR,1,1,0
 2009-06-08,"State of Arunachal Pradesh, India",Military - Indian Air Force,Antonov An-32,?,13,13,0
@@ -4772,7 +4772,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 2010-01-28,"Cotabato City, Philippines",Military - Philippine Air Force,GAF N22B Nomad,18,8,8,1
 2010-02-14,"Near Saada, Yemen",Military - Yemeni Arm,Helicopter,?,11,11,2
 2010-04-10,"Smolensk, Russia",Military - Polish Air Force,Tupolev 154M,101,96,96,0
-2010-04-10,"Near Yelizovo, Russia",Kamchatka Airlines,Mi-8,?,10,18,?
+2010-04-10,"Near Yelizovo, Russia",Kamchatka Airlines,Mi-8,?,10,18,0
 2010-04-13,"Monterey, Mexico",Airborne Freight Company Union,Airbus A300B4-203F,XA-TUE,5,5,2
 2010-04-21,"Pampanga, Philippines",Interisland Airlines,Antonov An-12BP,UP-AN216,3,6,0
 2010-05-12,"Tripoli, Libya",Afriqiyah Airways,Airbus A330-202,5A-ONG,103,104,0
@@ -4947,7 +4947,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 2016-04-29,"Sorta, Norway",CHC Helikopter Service,Eurocopter EC225LP Super Puma M2+,LN-OJF,13,13,0
 2016-05-19,175 miles off the Egyptian coast,EgyptAir,Airbus A320-232,SU-GCC,66,66,0
 2016-07-22,"Bay of Bengal, Indian Ocean",Indian Air Force,Antonov 32,K2743,29,29,0
-2016-07-30,"Near Lockhart, Texas",Heart of Texas Hot Air Balloon Rides,Kubicek BB85Z Hot Air Balloon,N2469L,16,16,?
+2016-07-30,"Near Lockhart, Texas",Heart of Texas Hot Air Balloon Rides,Kubicek BB85Z Hot Air Balloon,N2469L,16,16,0
 2016-08-05,"Dubai, United Arab Emirates",Emirates,Boeing 777-31H,A6-EMW,0,300,1
 2016-08-31,"Russian Mission, Alaksa",Hageland Aviiation,Cessna 208 Grand Caravan,N752RV,5,5,0
 2016-10-24,Malta International Airport,AE Aviation,Swearingen SA277-AT Expditer,N577MX,5,5,0
@@ -5004,7 +5004,7 @@ Date,Location,Operator,Aircraft_Type,Registration,Fatalities,Total_Onboard,Groun
 2019-10-04,"Lviv, Ukraine",Ukraine Air Alliance,Antonov An-12BK,UR-CAH,5,8,0
 2019-11-24,"Goma, Democratic Republic of Congo",Busy Bee Congo,Dornier 228-201,9S-GNH,19,19,7
 2019-12-27,"Almaty, Kazakhstan",Bek Air,Fokker 100,UP-F100,12,98,0
-2020-01-02,"Geneina, Sudan",Sudanese Air Force,Antonov An12-A,?,18,18,?
+2020-01-02,"Geneina, Sudan",Sudanese Air Force,Antonov An12-A,?,18,18,0
 2020-01-08,"Near Shahriah, Iran",Ukraine International Airlines,Boeing 737-8KV WL,UR-PSR,176,176,0
 2020-02-05,"Istanbul, Turkey",Pegasus Airlines,Boeing 737-86J,TC-IZK,3,177,0
 2020-03-29,"Manila, Philippines",Lion Air Inc.,IAI 1124A Westwind II,RP-C5880,8,8,0
